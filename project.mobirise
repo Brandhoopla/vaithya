@@ -46,6 +46,16 @@
       }
     ],
     "publishChangesOnly": true,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/beige-minimalist-christmas-portrait-photo-book_2.png",
+    "mbrsiteDomain": "nfgkc9tqep",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 5,
     "versionPublish": "5.6.13"
   },
